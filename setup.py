@@ -4,8 +4,8 @@ from setuptools import setup, find_packages
 
 import homeassistant.const as hass_const
 
-PROJECT_NAME = 'Home Assistant'
-PROJECT_PACKAGE_NAME = 'homeassistant'
+PROJECT_NAME = 'Trixie Home Assistant'
+PROJECT_PACKAGE_NAME = 'trixie'
 PROJECT_LICENSE = 'Apache License 2.0'
 PROJECT_AUTHOR = 'The Home Assistant Authors'
 PROJECT_COPYRIGHT = ' 2013-2018, {}'.format(PROJECT_AUTHOR)
@@ -29,8 +29,8 @@ PROJECT_CLASSIFIERS = [
     'Topic :: Home Automation'
 ]
 
-PROJECT_GITHUB_USERNAME = 'home-assistant'
-PROJECT_GITHUB_REPOSITORY = 'home-assistant'
+PROJECT_GITHUB_USERNAME = 'charbelsarkis'
+PROJECT_GITHUB_REPOSITORY = 'trixie'
 
 PYPI_URL = 'https://pypi.python.org/pypi/{}'.format(PROJECT_PACKAGE_NAME)
 GITHUB_PATH = '{}/{}'.format(
