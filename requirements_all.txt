@@ -403,9 +403,6 @@ hipnotify==1.0.8
 # homeassistant.components.binary_sensor.workday
 holidays==0.9.5
 
-# homeassistant.components.frontend
-home-assistant-frontend==20180625.0
-
 # homeassistant.components.homekit_controller
 # homekit==0.6
 
@@ -1337,6 +1334,9 @@ total_connect_client==0.18
 # homeassistant.components.sensor.transmission
 # homeassistant.components.switch.transmission
 transmissionrpc==0.11
+
+# homeassistant.components.frontend
+trixie-frontend==20180628.0
 
 # homeassistant.components.twilio
 twilio==5.7.0
